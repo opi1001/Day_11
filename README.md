@@ -1,4 +1,4 @@
-## practice_11
+
 
 ![day_11](https://github.com/opi1001/Day_11/assets/134625691/8f5aec4b-4507-4ede-8045-326a3545b9dd)
 
